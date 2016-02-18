@@ -20,6 +20,7 @@
     
     
     NSLog(@"使用SSH提交代码");
+    NSLog(@"再次提交代码");
 }
 
 - (void)didReceiveMemoryWarning {
